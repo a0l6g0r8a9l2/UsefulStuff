@@ -27,3 +27,19 @@ read and run
 `
 run scheduler.py
 `
+
+## Also see 
+`https://apscheduler.readthedocs.io/en/latest/`
+
+# state_machine.py
+
+## What for?
+`can be used for init statemachine oriented class/flows`
+
+## Usage
+`
+run state_machine.py
+`
+## Also see 
+` https://github.com/pytransitions/transitions `
+
