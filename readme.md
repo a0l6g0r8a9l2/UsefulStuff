@@ -17,3 +17,13 @@ docker run --rm -d -p 27017:27017 mongo
 `
 read and run
 `
+
+# scheduler.py
+
+## What for?
+`can be used for setup and run periodic task concurently`
+
+## Usage
+`
+run scheduler.py
+`
