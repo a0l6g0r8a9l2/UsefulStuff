@@ -7,3 +7,13 @@
 `
 docker run --rm -d -p 27017:27017 mongo
 `
+
+# docker_faq.md
+
+## What for?
+`docker and docker-compose base commands`
+
+## Usage
+`
+read and run
+`
