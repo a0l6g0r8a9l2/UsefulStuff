@@ -67,3 +67,7 @@
 2. Запустить проект
 
     `docker-compose up`
+    
+3. Остановить и удалить контейнер и image
+
+`docker-compose rm -f -s bot && docker rmi investhelperbe_bot`
